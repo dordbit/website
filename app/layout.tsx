@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "4bit - Dörd Bit",
-  description: "Sadələşdirilmiş Məhsuldarlıq Təlimatları",
+  title: "Dord Bit (4bit)",
+  description: "Proqramlaşdırma və məhsuldarlıq təlimatları",
 };
 
 export default function RootLayout({
