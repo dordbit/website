@@ -30,8 +30,8 @@ export default function Home() {
         <Image
           src="/logo.svg"
           alt="4bit Logo"
-          width={240}
-          height={240}
+          width={300}
+          height={341}
           priority
         />
       </div>
